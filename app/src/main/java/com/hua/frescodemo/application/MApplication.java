@@ -9,6 +9,10 @@ import com.facebook.drawee.backends.pipeline.Fresco;
  */
 public class MApplication extends Application {
 
+    public static final String SHOW_TYPE = "SHOW_TYPE";
+    public static final String SHOW_IMAGE = "SHOW_IMAGE";
+    public static final String SHOW_GIF = "SHOW_GIF";
+
     @Override
     public void onCreate() {
         super.onCreate();

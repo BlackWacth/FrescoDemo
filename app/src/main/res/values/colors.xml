@@ -5,4 +5,5 @@
     <color name="colorAccent">#FF4081</color>
     <color name="image_placeholder">#cccccc</color>
     <color name="primary_material_light">#00bcd4</color>
+    <color name="black_background">#000000</color>
 </resources>
